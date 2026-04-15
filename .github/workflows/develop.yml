@@ -81,4 +81,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/USERNAME_AMIE/depression-api:latest
+          tags: ghcr.io/FraNKieTheAnalyst/depression-api:latest
